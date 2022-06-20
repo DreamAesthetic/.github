@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [potential-octo-garbanzo](https://github.com/DreamAesthetic/potential-octo-garbanzo)
 
-- ⚡ Fun fact **I think I am depressed**
+- ⚡ Fun fact **I think I am depressed** #fix
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
